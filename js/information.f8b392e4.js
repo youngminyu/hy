@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[486],{993:function(n,r,i){i.r(r),i.d(r,{default:function(){return h}});var t=i(3396);const a={class:"information"},e=(0,t._)("h1",null,"This is an information page",-1),s=[e];function u(n,r){return(0,t.wg)(),(0,t.iD)("div",a,s)}var c=i(89);const o={},f=(0,c.Z)(o,[["render",u]]);var h=f}}]);
+//# sourceMappingURL=information.f8b392e4.js.map

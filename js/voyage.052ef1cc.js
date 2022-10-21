@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[550],{5365:function(n,e,a){a.r(e),a.d(e,{default:function(){return f}});var r=a(3396);const s={class:"voyage"},u=(0,r._)("h1",null,"This is an voyage page",-1),t=[u];function c(n,e){return(0,r.wg)(),(0,r.iD)("div",s,t)}var i=a(89);const h={},o=(0,i.Z)(h,[["render",c]]);var f=o}}]);
+//# sourceMappingURL=voyage.052ef1cc.js.map

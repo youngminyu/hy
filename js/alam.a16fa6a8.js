@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[15],{8853:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var r=e(3396);const s={class:"alam"},u=(0,r._)("h1",null,"This is an alam page",-1),t=[u];function c(n,a){return(0,r.wg)(),(0,r.iD)("div",s,t)}var i=e(89);const l={},h=(0,i.Z)(l,[["render",c]]);var f=h}}]);
+//# sourceMappingURL=alam.a16fa6a8.js.map

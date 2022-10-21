@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[528],{23:function(n,e,r){r.r(e),r.d(e,{default:function(){return l}});var s=r(3396);const t={class:"master"},a=(0,s._)("h1",null,"This is an master page",-1),u=[a];function c(n,e){return(0,s.wg)(),(0,s.iD)("div",t,u)}var i=r(89);const h={},f=(0,i.Z)(h,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=master.edf80a6d.js.map

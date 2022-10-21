@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[314],{2794:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var s=e(3396);const r={class:"setting"},u=(0,s._)("h1",null,"This is an setting page",-1),i=[u];function a(n,t){return(0,s.wg)(),(0,s.iD)("div",r,i)}var c=e(89);const h={},f=(0,c.Z)(h,[["render",a]]);var l=f}}]);
+//# sourceMappingURL=setting.ca5de7c5.js.map
