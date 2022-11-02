@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[150],{5334:function(n,r,t){t.r(r),t.d(r,{default:function(){return k}});var a=t(3396);const c={class:"tracking"},e=(0,a._)("h1",null,"This is an tracking page",-1),s=[e];function u(n,r){return(0,a.wg)(),(0,a.iD)("div",c,s)}var i=t(89);const h={},f=(0,i.Z)(h,[["render",u]]);var k=f}}]);
-//# sourceMappingURL=tracking.fccf7ea7.js.map

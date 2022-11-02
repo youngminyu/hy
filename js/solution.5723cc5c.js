@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[823],{308:function(n,s,u){u.r(s),u.d(s,{default:function(){return h}});var t=u(3396);const e={class:"solution"},r=(0,t._)("h1",null,"This is an solution page",-1),i=[r];function a(n,s){return(0,t.wg)(),(0,t.iD)("div",e,i)}var c=u(89);const o={},l=(0,c.Z)(o,[["render",a]]);var h=l}}]);
-//# sourceMappingURL=solution.5723cc5c.js.map

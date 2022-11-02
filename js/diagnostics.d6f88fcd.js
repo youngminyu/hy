@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[277],{6986:function(n,s,i){i.r(s),i.d(s,{default:function(){return f}});var t=i(3396);const a={class:"Diagnostics"},c=(0,t._)("h1",null,"This is an Diagnostics page",-1),e=[c];function r(n,s){return(0,t.wg)(),(0,t.iD)("div",a,e)}var u=i(89);const h={},o=(0,u.Z)(h,[["render",r]]);var f=o}}]);
-//# sourceMappingURL=diagnostics.d6f88fcd.js.map

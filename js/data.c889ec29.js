@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhy"]=self["webpackChunkhy"]||[]).push([[126],{681:function(n,a,t){t.r(a),t.d(a,{default:function(){return f}});var e=t(3396);const r={class:"data"},s=(0,e._)("h1",null,"This is an data page",-1),u=[s];function c(n,a){return(0,e.wg)(),(0,e.iD)("div",r,u)}var i=t(89);const h={},d=(0,i.Z)(h,[["render",c]]);var f=d}}]);
-//# sourceMappingURL=data.c889ec29.js.map
