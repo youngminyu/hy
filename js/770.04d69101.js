@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[770],{2770:function(i,s,n){async function h(){return new Promise((i=>{i({state:"00",data:[{shipid:"1",shipname:"아리온제주1"},{shipid:"2",shipname:"아리온제주2"},{shipid:"3",shipname:"아리온제주3"},{shipid:"4",shipname:"아리온제주4"},{shipid:"5",shipname:"아리온제주5"},{shipid:"5",shipname:"아리온제주6"},{shipid:"5",shipname:"아리온제주7"},{shipid:"5",shipname:"아리온제주8"},{shipid:"5",shipname:"아리온제주9"}]})}))}n.r(s),n.d(s,{ships:function(){return h}})}}]);
+//# sourceMappingURL=770.04d69101.js.map
