@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[238],{3238:function(o,n,s){s.r(n),s.d(n,{sw_log_logs:function(){return e}});var t=s(196);function e(o){return(0,t.ZP)({headers:{"Access-Control-Allow-Origin":"*","Content-Type":"application/json","Access-Control-Allow-Methods":"GET,PUT,POST,DELETE"},method:"GET",url:`https://13.124.69.255:90/api/sw_log/GetLog_List?${o}`,mode:"no-cors"})}}}]);
+//# sourceMappingURL=238.9a5de4a1.js.map
