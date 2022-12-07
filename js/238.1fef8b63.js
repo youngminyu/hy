@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[238],{3238:function(n,s,t){t.r(s),t.d(s,{sw_log_logs:function(){return e}});var o=t(196);function e(n){return(0,o.ZP)({method:"GET",url:`https://13.124.69.255:90/api/sw_log/GetLog_List?${n}`,mode:"no-cors"})}}}]);
+//# sourceMappingURL=238.1fef8b63.js.map

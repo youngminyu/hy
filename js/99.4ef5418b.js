@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[99],{8099:function(n,i,t){t.r(i),t.d(i,{communication_communications:function(){return c}});var o=t(196);function c(n){return(0,o.ZP)({method:"GET",url:`https://13.124.69.255:90/api/communication/GetCommunication_List?${n}`,mode:"no-cors"})}}}]);
+//# sourceMappingURL=99.4ef5418b.js.map

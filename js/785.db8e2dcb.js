@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[785],{5785:function(r,t,n){n.r(t),n.d(t,{alarm_current_alams:function(){return e},alarm_history_alams:function(){return s}});var a=n(196);function e(r){return(0,a.ZP)({method:"GET",url:`https://13.124.69.255:90/api/alarm_current/GetAlarm_List?${r}`,mode:"no-cors"})}function s(r){return(0,a.ZP)({method:"GET",url:`https://13.124.69.255:90/api/alarm_history/GetAlarm_List?${r}`,mode:"no-cors"})}}}]);
+//# sourceMappingURL=785.db8e2dcb.js.map

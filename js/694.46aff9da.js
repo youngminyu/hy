@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[694],{8694:function(n,t,o){o.r(t),o.d(t,{command_history_commands:function(){return r}});var s=o(196);function r(n){return(0,s.ZP)({method:"GET",url:`https://13.124.69.255:90/api/command_history/GetCommand_List?${n}`,mode:"no-cors"})}}}]);
+//# sourceMappingURL=694.46aff9da.js.map
