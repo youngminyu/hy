@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[99],{8099:function(n,o,i){i.r(o),i.d(o,{communication_communications:function(){return e}});var c=i(196),t=i(5547);function e(n){return(0,c.ZP)({headers:{"Access-Control-Allow-Origin":"*","Content-Type":"application/json","Access-Control-Allow-Methods":"GET,PUT,POST,DELETE"},method:"GET",url:`${t.api}/communication/GetCommunication_List?${n}`,mode:"no-cors"})}console.log(t.api)}}]);
+//# sourceMappingURL=99.35786a43.js.map
