@@ -1,0 +1,1 @@
+{"version":3,"file":"js/238.c5c101b8.js","mappings":"qGACO,SAASA,EAAYC,GAC1B,MAAQ,qBACV,C","sources":["webpack://ins/./src/services/sw.js"],"sourcesContent":["//\nexport function sw_log_logs(queryString) {\n  return `/sw_log/GetLog_List`;\n}\n"],"names":["sw_log_logs","queryString"],"sourceRoot":""}
