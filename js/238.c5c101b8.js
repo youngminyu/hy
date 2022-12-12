@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[238],{3238:function(n,s,t){function u(n){return"/sw_log/GetLog_List"}t.r(s),t.d(s,{sw_log_logs:function(){return u}})}}]);
-//# sourceMappingURL=238.c5c101b8.js.map

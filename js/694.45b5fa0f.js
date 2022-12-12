@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[694],{8694:function(o,n,s){s.r(n),s.d(n,{command_history_commands:function(){return c}});var e=s(196),t=s(5547);function c(o){return(0,e.ZP)({headers:{"Access-Control-Allow-Origin":"*","Content-Type":"application/json","Access-Control-Allow-Methods":"GET,PUT,POST,DELETE"},method:"GET",url:`${t.api}/command_history/GetCommand_List?${o}`,mode:"no-cors"})}console.log(t.api)}}]);
-//# sourceMappingURL=694.45b5fa0f.js.map

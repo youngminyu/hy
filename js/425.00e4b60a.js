@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[425],{5425:function(t,s,n){n.r(s),n.d(s,{interface_status_statuss:function(){return o}});var e=n(196);function o(t){return(0,e.ZP)({headers:{"Access-Control-Allow-Origin":"*","Content-Type":"application/json","Access-Control-Allow-Methods":"GET,PUT,POST,DELETE"},method:"GET",url:`https://13.124.69.255:90/api/interface_status/GetStatus_List?${t}`,mode:"no-cors"})}}}]);
-//# sourceMappingURL=425.00e4b60a.js.map

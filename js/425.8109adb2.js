@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[425],{5425:function(t,s,n){n.r(s),n.d(s,{interface_status_statuss:function(){return u}});var e=n(196);function u(t){return(0,e.ZP)({method:"GET",url:`https://13.124.69.255:90/api/interface_status/GetStatus_List?${t}`,mode:"no-cors"})}}}]);
-//# sourceMappingURL=425.8109adb2.js.map

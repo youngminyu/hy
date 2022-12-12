@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[26],{8659:function(t,n,o){o.r(n),o.d(n,{voyage_historys:function(){return e}});var s=o(196);function e(t){return console.log("queryString",t),(0,s.ZP)({method:"GET",url:`https://13.124.69.255:90/api/voyage_history/GetHistory_List?${t}`,mode:"no-cors"})}}}]);
-//# sourceMappingURL=26.87df2e66.js.map

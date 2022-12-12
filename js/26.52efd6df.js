@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[26],{8659:function(o,n,e){e.r(n),e.d(n,{voyage_historys:function(){return r}});var s=e(196),t=e(5547);function r(o){return console.log("queryString",o),(0,s.ZP)({headers:{"Access-Control-Allow-Origin":"*","Content-Type":"application/json","Access-Control-Allow-Methods":"GET,PUT,POST,DELETE"},method:"GET",url:`${t.api}/voyage_history/GetHistory_List?${o}`,mode:"no-cors"})}console.log(t.api)}}]);
-//# sourceMappingURL=26.52efd6df.js.map

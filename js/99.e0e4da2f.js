@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[99],{8099:function(n,o,t){t.r(o),t.d(o,{communication_communications:function(){return c}});var i=t(196);function c(n){return(0,i.ZP)({headers:{"Access-Control-Allow-Origin":"*","Content-Type":"application/json","Access-Control-Allow-Methods":"GET,PUT,POST,DELETE"},method:"GET",url:`https://13.124.69.255:90/api/communication/GetCommunication_List?${n}`,mode:"no-cors"})}}}]);
-//# sourceMappingURL=99.e0e4da2f.js.map
