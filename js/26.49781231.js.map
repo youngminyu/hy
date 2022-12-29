@@ -1,0 +1,1 @@
+{"version":3,"file":"js/26.49781231.js","mappings":"oGAAO,SAASA,EAAgBC,GAC9B,MAAQ,iCACV,C","sources":["webpack://ins/./src/services/voyage.js"],"sourcesContent":["export function voyage_historys(queryString) {\n  return `/voyage_history/GetHistory_List`;\n}\n"],"names":["voyage_historys","queryString"],"sourceRoot":""}
