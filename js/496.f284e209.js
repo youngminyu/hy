@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[496],{5496:function(s,i,n){function t(){return"/ais_history/GetAis_List"}n.r(i),n.d(i,{ais_history_aiss:function(){return t}})}}]);
+//# sourceMappingURL=496.f284e209.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[74],{8074:function(t,n,e){function o(){return"/host/GetHost_List"}function s(){return"/host_detail/Save_Host"}function u(){return"/host_detail/Save_Host"}function r(t){return{data:{idxs:[`${t.computer_idx}`]},url:"/host/Delete_Host"}}e.r(n),e.d(n,{create_host_host:function(){return s},delete_host_host:function(){return r},host_hosts:function(){return o},update_host_host:function(){return u}})}}]);
+//# sourceMappingURL=74.281dfd7c.js.map

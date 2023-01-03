@@ -1,0 +1,1 @@
+{"version":3,"file":"js/496.f284e209.js","mappings":"qGAAO,SAASA,IACd,MAAQ,0BACV,C","sources":["webpack://ins/./src/services/ais.js"],"sourcesContent":["export function ais_history_aiss() {\r\n  return `/ais_history/GetAis_List`;\r\n}\r\n"],"names":["ais_history_aiss"],"sourceRoot":""}
