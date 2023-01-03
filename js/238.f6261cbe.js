@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[238],{3238:function(n,t,e){function s(){return"/sw_log/GetLog_List"}function u(){return"/sw/GetSw_List"}function r(){return"/sw_detail/Save_Sw"}function w(){return"/sw_detail/Save_Sw"}function i(n){return{data:{idxs:[`${n.sw_idx}`]},url:"/sw/Delete_Sw"}}e.r(t),e.d(t,{create_sw_sw:function(){return r},delete_sw_sw:function(){return i},sw_log_logs:function(){return s},sw_sws:function(){return u},update_sw_sw:function(){return w}})}}]);
-//# sourceMappingURL=238.f6261cbe.js.map

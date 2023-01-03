@@ -1,1 +1,0 @@
-{"version":3,"file":"js/99.5cca0f1d.js","mappings":"oGACO,SAASA,EAA6BC,GAC3C,MAAQ,sCACV,C","sources":["webpack://ins/./src/services/communication.js"],"sourcesContent":["//\nexport function communication_communications(queryString) {\n  return `/communication/GetCommunication_List`;\n}\n"],"names":["communication_communications","queryString"],"sourceRoot":""}
