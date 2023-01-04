@@ -1,1 +1,0 @@
-{"version":3,"file":"js/694.87f909e6.js","mappings":"qGACO,SAASA,EAAyBC,GACvC,MAAQ,kCACV,C","sources":["webpack://ins/./src/services/command.js"],"sourcesContent":["//\r\nexport function command_history_commands(queryString) {\r\n  return `/command_history/GetCommand_List`;\r\n}\r\n"],"names":["command_history_commands","queryString"],"sourceRoot":""}
