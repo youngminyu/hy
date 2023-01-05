@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[26],{9026:function(n,s,t){function e(n){return"/voyage_history/GetHistory_List"}t.r(s),t.d(s,{voyage_historys:function(){return e}})}}]);
+//# sourceMappingURL=26.8d4fbc83.js.map
