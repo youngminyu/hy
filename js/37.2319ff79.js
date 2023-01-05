@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[37],{6770:function(n,t,e){function i(){return"/tag_view/GetTag_List"}e.r(t),e.d(t,{tag_view_tags:function(){return i}})}}]);
-//# sourceMappingURL=37.2319ff79.js.map

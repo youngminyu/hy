@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[99],{8099:function(n,i,o){function c(n){return"/communication/GetCommunication_List"}function t(){return"/communication/Csv_Download"}o.r(i),o.d(i,{communication_communications:function(){return c},csv_download:function(){return t}})}}]);
-//# sourceMappingURL=99.570f3f7b.js.map
