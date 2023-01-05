@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[496],{5496:function(n,s,i){function t(){return"/ais_history/GetAis_List"}function r(){return"/ais_history/Csv_Download"}i.r(s),i.d(s,{ais_history_aiss:function(){return t},csv_download:function(){return r}})}}]);
-//# sourceMappingURL=496.b1b81db6.js.map
