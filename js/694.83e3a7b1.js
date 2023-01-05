@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[694],{8694:function(n,o,t){function s(n){return"/command_history/GetCommand_List"}function c(){return"/command_history/Csv_Download"}t.r(o),t.d(o,{command_history_commands:function(){return s},csv_download:function(){return c}})}}]);
+//# sourceMappingURL=694.83e3a7b1.js.map

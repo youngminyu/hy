@@ -1,0 +1,1 @@
+{"version":3,"file":"js/37.2319ff79.js","mappings":"oGAAO,SAASA,IACd,MAAQ,uBACV,C","sources":["webpack://ins/./src/services/tag.js"],"sourcesContent":["export function tag_view_tags() {\r\n  return `/tag_view/GetTag_List`;\r\n}\r\n"],"names":["tag_view_tags"],"sourceRoot":""}
