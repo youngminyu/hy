@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[425],{5425:function(t,n,s){function u(t){return"/interface_status/GetStatus_List"}function e(){return"/interface_status/Csv_Download"}s.r(n),s.d(n,{csv_download:function(){return e},interface_status_statuss:function(){return u}})}}]);
+//# sourceMappingURL=425.3c614cd8.js.map
