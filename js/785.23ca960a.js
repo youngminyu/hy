@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkins"]=self["webpackChunkins"]||[]).push([[785],{5785:function(r,n,t){function a(){return"/alarm_current/GetAlarm_List"}function u(){return"/alarm_history/GetAlarm_List"}t.r(n),t.d(n,{alarm_current_alams:function(){return a},alarm_history_alams:function(){return u}})}}]);
+//# sourceMappingURL=785.23ca960a.js.map
